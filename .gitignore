@@ -4,7 +4,6 @@
 /storage/*.key
 /storage/*.index
 /storage/framework/cache/*
-/vendor
 /resources/babel.babel
 .idea
 .env
